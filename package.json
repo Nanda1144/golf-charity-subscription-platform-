@@ -1,0 +1,11 @@
+{
+  "name": "golf-charity-project",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "build": "cd frontend && npm run build"
+  }
+}
