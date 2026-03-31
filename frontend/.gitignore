@@ -1,11 +1,27 @@
+# dependencies
 node_modules/
+
+# build files
 dist/
+.vite/
+frontend/.vite/
+
+# env files
 .env
 .dev.vars
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+
+# logs
 *.log
+
+# system files
 .DS_Store
-.vscode
+
+# editor
+.vscode/
+
+# optional (recommended)
+*.pdf
