@@ -6,6 +6,6 @@
     "backend"
   ],
   "scripts": {
-    "build": "cd frontend && npm run build"
+    "build": "npm --workspace=frontend run build"
   }
 }
