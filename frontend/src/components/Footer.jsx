@@ -68,8 +68,8 @@ const Footer = () => {
           <div>
             <h5 className="text-xs font-bold uppercase tracking-[0.3em] text-gold-400 mb-8 italic">The Visionary</h5>
             <div className="flex items-center gap-4 mb-4">
-              <div className="w-12 h-12 rounded-full overflow-hidden border-2 border-gold-500">
-                <img src="" alt="Founder" />
+              <div className="w-12 h-12 rounded-full overflow-hidden border-2 border-gold-500 bg-emerald-900 flex items-center justify-center text-xs text-white uppercase font-bold">
+                N/A
               </div>
               <div>
                  <p className="text-sm font-bold">Name </p>
